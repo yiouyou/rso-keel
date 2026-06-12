@@ -18,9 +18,17 @@ domain payload
 
 Use `rso-keel` when an AI workflow produces accountable work: research reviews, patent analysis, compliance findings, lab experiment cards, investment diligence, safety evaluations, or any workflow that needs provenance, human approval, reproducibility, rollback, and template hardening.
 
+Documentation:
+
+- English: [Overview](docs/en/00-overview.md) · [Why rso-keel](docs/en/01-why-rso-keel.md) · [Quickstart](docs/en/04-quickstart.md) · [Trust Model](docs/en/06-trust-model.md)
+- 中文：[概览](docs/zh/00-overview.md) · [为什么要做 rso-keel](docs/zh/01-why-rso-keel.md) · [快速开始](docs/zh/04-quickstart.md) · [可信模型](docs/zh/06-trust-model.md)
+
+Full documentation index:
+
+- [English and 中文 docs](docs/README.md)
+
 Start here:
 
-- [rso-keel documentation index](docs/README.md)
 - [Why rso-keel](docs/en/01-why-rso-keel.md)
 - [Quickstart](docs/en/04-quickstart.md)
 - [Comparison with adjacent open-source projects](docs/en/03-comparison.md)

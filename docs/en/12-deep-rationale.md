@@ -1,7 +1,5 @@
 # Deep Rationale
 
-This is the English companion summary for the full Chinese rationale: [中文完整版本](../zh/12-deep-rationale.md).
-
 ## Core Argument
 
 AI for Science and agentic R&D are moving from model demonstrations to production platforms. Systems such as Microsoft Discovery, FutureHouse Robin, Google DeepMind Co-Scientist, AI Scientist-v2, AgentRxiv, and AlphaFold-style domain models show that AI can increasingly generate hypotheses, search literature, analyze evidence, and coordinate experiments.

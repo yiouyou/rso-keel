@@ -1,5 +1,7 @@
 # rso-keel
 
+[English] | [中文](docs/zh/README.md)
+
 Governance / provenance / orchestration for high-responsibility AI workflows.
 
 `rso-keel` is not another agent framework, and it is not tied to one runtime. It is the accountability layer above workflow runtimes and agent frameworks:

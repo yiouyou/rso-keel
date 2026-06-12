@@ -1,6 +1,6 @@
 # rso-keel
 
-[English](../../README.md) | [中文]
+[English](https://github.com/yiouyou/rso-keel/blob/main/README.md) | [中文]
 
 面向高责任 AI workflow 的治理、溯源与编排中间层。
 
